@@ -29,7 +29,7 @@ const connectDB = async () => {
         if (!process.env.MONGODB_URI) {
             console.warn('MONGODB_URI not set. Using local testing DB URI or failing gracefully.');
         }
-        await mongoose.connect(process.env.MONGODB_URI || 'mongodb+srv://e0123041_db_user:Sharanya011005@netflixfeatureflow.f4jk2wl.mongodb.net/netflixfeatureflow?appName=netflixfeatureflow');
+        await mongoose.connect(process.env.MONGODB_URI || 'mongodb+srv://e0123041_db_user:Sharu2015@netflixfeatureflow.f4jk2wl.mongodb.net/netflixfeatureflow?appName=netflixfeatureflow');
         console.log('MongoDB Connected');
     } catch (err) {
         console.error('MongoDB connection error:', err);
