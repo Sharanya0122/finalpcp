@@ -3,7 +3,7 @@ import jwt from 'jsonwebtoken';
 import bcrypt from 'bcryptjs';
 
 const generateToken = (id) => {
-    return jwt.sign({ id }, process.env.JWT_SECRET || 'fallback_secret', {
+    return jwt.sign({ id }, process.env.JWT_SECRET || 'netflix123', {
         expiresIn: '30d'
     });
 };
