@@ -33,7 +33,7 @@ const Home = () => {
                         transition={{ duration: 0.8, delay: 0.2 }}
                         className="text-xl md:text-2xl text-gray-300 mb-10 max-w-2xl font-light"
                     >
-                        Have a brilliant idea for Netflix? Share your feature requests, vote on community favorites, and help us build a better experience.
+                        Have a brilliant idea for our OTT platform? Share your feature requests, vote on community favorites, and help us build a better experience.
                     </motion.p>
                     
                     <motion.div 

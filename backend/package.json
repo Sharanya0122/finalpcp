@@ -1,7 +1,7 @@
 {
-  "name": "netflix-featureflow-backend",
+  "name": "ott-featureflow-backend",
   "version": "1.0.0",
-  "description": "Backend for Netflix FeatureFlow",
+  "description": "Backend for OTT FeatureFlow",
   "main": "server.js",
   "type": "module",
   "scripts": {

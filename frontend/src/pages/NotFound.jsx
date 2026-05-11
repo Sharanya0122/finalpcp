@@ -10,7 +10,7 @@ const NotFound = () => {
                 Sorry, we can't find that page. You'll find lots to explore on the home page.
             </p>
             <Link to="/" className="bg-white text-black font-bold px-8 py-3 rounded hover:bg-gray-200 transition-colors">
-                Netflix Home
+                OTT Home
             </Link>
         </div>
     );

@@ -1,6 +1,6 @@
-# Netflix FeatureFlow
+# OTT FeatureFlow
 
-A modern, production-ready MERN stack web application for managing feature requests with a premium Netflix-inspired UI.
+A modern, production-ready MERN stack web application for managing feature requests with a premium OTT-inspired UI.
 
 ## Features
 

@@ -19,7 +19,7 @@ const Navbar = () => {
                 <div className="flex justify-between h-16">
                     <div className="flex items-center">
                         <Link to="/" className="flex-shrink-0 flex items-center gap-2">
-                            <span className="text-netflix-red font-bold text-2xl tracking-tighter">FEATUREFLOW</span>
+                            <span className="text-netflix-red font-bold text-2xl tracking-tighter">OTT FEATUREFLOW</span>
                         </Link>
                     </div>
                     
